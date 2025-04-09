@@ -1,8 +1,6 @@
 # quora
 replica of quora
 
-# To test this application:
-
 # To test this application firstly install the necessary dependencies:
 run the command: pip install -r requirements.txt
 
