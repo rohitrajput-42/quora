@@ -1,9 +1,6 @@
 # quora
 replica of quora
 
-# bank_transac
-Bank_trasaction application
-
 # To test this application:
 
 # To test this application firstly install the necessary dependencies:
